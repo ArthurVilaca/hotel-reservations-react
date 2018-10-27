@@ -1,7 +1,7 @@
 {
   "name": "hotel-reservations",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "material-ui": "^0.17.4",
     "react": "^15.5.4",
