@@ -1,1 +1,2 @@
+# DEPRECATED
 ## hotel-reservations-react
